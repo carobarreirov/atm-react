@@ -45,7 +45,7 @@ The application is modular, with each feature encapsulated in its own component,
 - **ATMDeposit Component**: Handles the UI for deposit and withdrawal operations.
 
 For a more in-depth understanding, students are encouraged to dive into each component and explore the functionalities.
-Step-by-step, read [here](README.md).
+Step-by-step, read [here](HowTo.md).
 
 ## License
 
